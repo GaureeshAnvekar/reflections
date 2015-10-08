@@ -1,0 +1,5 @@
+LESSON -II
+
+1. What happens when you initialize a repository? Why do you need to do it?
+-> It creates new directory in our which will be different from 
+regular directories as we can have different versions of project within this directory
