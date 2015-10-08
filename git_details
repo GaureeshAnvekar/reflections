@@ -8,3 +8,18 @@
 6. HEAD: the commit we are currently inside. If we move from one commit to previous commit, it is called detaching head.
 
 7. git checkout commit_id: this goes back to previous version ie the mentioned commit_id
+
+8. git init: this creates a new repository in the system itself
+rather than cloning existing one.
+
+note: any git repository whether cloned or created contains .git file to maintain history of versions.
+
+9. git status: confirms whether the current dir is a repository and the current branch and untracked files
+
+note: when we convert a dir to git repo, the files within that dir are still untracked like regular files. Therefore, we need to insert them into the repo. Before this, they will go through the staging area by using git add filenames. And then actually into repo by git commit.
+
+10. git add file_names: this inserts files into staging area
+
+11. git reset file_names: takes out files from staging area.
+
+12. git commit: inserts files into repo which are in staging area.

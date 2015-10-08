@@ -3,3 +3,6 @@ LESSON -II
 1. What happens when you initialize a repository? Why do you need to do it?
 -> It creates new directory in our which will be different from 
 regular directories as we can have different versions of project within this directory
+
+2. How is the staging area different from the working directory and the repository? What it offers?
+-> it is an intermediate and thus we can revert back 
