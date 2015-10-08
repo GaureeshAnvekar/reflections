@@ -1,0 +1,10 @@
+1. git clone URL: to download complete repository to your system
+2. git --version: check your git version
+3. git log: to check all the commits made in the repository( net not required )
+4.  git diff eg.file eg2.file: gives the changes made between 2 files
+
+5. octopus: is a strategy to combine many versions of the same file.
+
+6. HEAD: the commit we are currently inside. If we move from one commit to previous commit, it is called detaching head.
+
+7. git checkout commit_id: this goes back to previous version ie the mentioned commit_id
