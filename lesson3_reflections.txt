@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+-> This provides a cloud service and thus can work on project from any workspace when online
