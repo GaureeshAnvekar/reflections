@@ -1,2 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work local?
 -> This provides a cloud service and thus can work on project from any workspace when online
+
+
+8. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+-> because the changes made by public can not always be precise and thus we cannot allow automatic up-to-date process 
